@@ -1,0 +1,11 @@
+stepDefinitions\bookStoreSteps\BookStoreNavigation_Steps.class
+stepDefinitions\DemoQAFirst_Steps.class
+stepDefinitions\bookStoreSteps\UserProfilePage_Steps.class
+testRunners\TestRunner.class
+stepDefinitions\browserInteractionSteps\WindowInteraction_Steps.class
+utilities\Hooks.class
+stepDefinitions\browserInteractionSteps\TabInteractions_Steps.class
+stepDefinitions\bookStoreSteps\UserBookCollection_Steps.class
+stepDefinitions\bookStoreSteps\UserHomePage_Steps.class
+stepDefinitions\browserInteractionSteps\InteractionsMenu_Steps.class
+stepDefinitions\bookStoreSteps\BookDetailsPage_Steps.class
