@@ -1,4 +1,4 @@
-# Appium Android Automation Project using TestNG in Java
+# Selenium Automation Project using TestNG and Cucumber in Java
 
 Welcome to the Web Automation Testing project using TestNG in Java! This project allows you to automate tests for Web applications using the Selenim framework with Cucumber BDD and TestNG as the testing framework. This README file will guide you through the setup process and provide instructions on how to run the tests and generate a report using Allure.
 
@@ -21,9 +21,11 @@ Follow these steps to set up and run the project:
 2. Open a terminal and navigate to the project directory.
 
 3. **Run Tests**: Execute the following command to clean and run the tests using Maven:
+   mvn clean test
 This command will trigger the execution of the TestNG tests.
 
-4. **Generate and View Report**: After the tests have completed, generate an Allure report using the following command:
+5. **Generate and View Report**: After the tests have completed, generate an Allure report using the following command:
+   allure serve allure-results
 This will generate an HTML report with detailed information about the test results, including screenshots, logs, and more. The report will be automatically opened in your default web browser.
 
 ## Project Structure
